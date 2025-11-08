@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Model and dataset folders
+artifacts/
+notebook/breast-cancer-wisconsin-data/
+
+# Data and model files
+*.joblib
+*.pkl
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db

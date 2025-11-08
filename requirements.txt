@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.10.7
+seaborn==0.13.2
+scikit-learn==1.7.0
+joblib==1.5.1
+opendatasets==0.1.22
+jupyterlab==4.4.3
+notebook==7.4.3
