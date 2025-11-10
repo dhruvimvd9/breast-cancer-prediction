@@ -79,7 +79,7 @@ The dataset used in this project comes from Kaggle:
 
 ---
 
-## 📊 Model Performance (Example Metrics)
+## 📊 Model Performance
 
 | Metric | Test dataset Value (Approx.) |
 |--------|-----------------|
