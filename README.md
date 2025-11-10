@@ -65,9 +65,6 @@ The dataset used in this project comes from Kaggle:
 - **Confusion Matrix:**  
   Visualizes true vs. false predictions to evaluate model accuracy and recall.
 
-- **Feature Importance Analysis:**  
-  Highlights which features have the strongest impact on predicting malignancy.
-
 ---
 
 ## 🧠 Technologies Used
